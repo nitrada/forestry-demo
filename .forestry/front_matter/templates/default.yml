@@ -24,3 +24,6 @@ fields:
   label: layout
   hidden: true
   default: post
+- type: blocks
+  name: test
+  label: test
